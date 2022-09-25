@@ -6,9 +6,12 @@ an accurate facebook account information gathering, all sensitive information ca
 
 # [ Installation ]
 $ apt update && apt upgrade
+
 $ apt install git python2
+
 $ git clone https://github.com/SasukeOfficial12345/FacebookTools
-$ cd fbi
+
+$ cd FacebookTools
 
 # [ Setup ]
 $ pip2 install -r requirements.txt
