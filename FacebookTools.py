@@ -27,7 +27,7 @@ except ImportError:
   print '(o o)'.center(44)
   print 'ooO--(_)--Ooo'.center(44)
   print W + ' '
-  print ('A N O N Y M O U S P H').center(44)
+  print ('S P H').center(44)
   print ' '
   print "[!] Can't import module 'requests'\n"
   sys.exit()
