@@ -1,5 +1,3 @@
-#python 2.7.15
-
 ###################################################################
 #                        Import Module
 import json , sys , hashlib , os , time , marshal, getpass
