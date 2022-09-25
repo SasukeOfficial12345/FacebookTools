@@ -7,9 +7,11 @@ an accurate facebook account information gathering, all sensitive information ca
 # [ Installation ]
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ git clone https://github.com/SasukeOfficial12345/FacebookTools
 $ cd fbi
+
 # [ Setup ]
 $ pip2 install -r requirements.txt
+
 # [ Running ]
-$ python2 fbi.py
+$ python2 FacebookTools.py
